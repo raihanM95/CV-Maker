@@ -1,0 +1,254 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(Image/Background.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.login-box{
+	width: 320px;
+	height: 350px;
+	border-radius: 20px;
+	background: rgba(255, 255, 255, 0.39);
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+}
+
+#avatar{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -50px;
+	left: calc(50% - 50px);
+}
+
+h1{
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 22px;
+	color: #778899;
+}
+
+.login-box input{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.login-box input[type="text"]
+{
+	border-radius: 8px;
+	outline: white;
+	height: 40px;
+	font-size: 16px;
+	padding-left: 40px;
+}
+
+#password{
+	border-radius: 8px;
+	outline: white;
+	height: 40px;
+	font-size: 16px;
+	padding-left: 40px;
+}
+
+#icon{
+	height: 20px;
+	width: 20px;
+	position: absolute;
+	top: 36%;
+	left: 13%;
+}
+
+#icon2{
+	height: 25px;
+	width: 25px;
+	position: absolute;
+	top: 52%;
+	left: 12%;
+}
+
+.login-box input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #006699;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 8px;
+}
+
+.login-box input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: #39dc79;
+	color: #000;
+}
+
+.login-box a{
+	text-decoration: none;
+	font-size: 14px;
+	color: #fff;
+	padding-left: 150px;
+}
+
+.login-box a:hover
+{
+	color: #39dc79;
+}
+
+#line{
+	border-bottom: 1px solid WhiteSmoke;
+	margin-top: 42%;
+	margin-left: 37%;
+	width: 26%;
+}
+
+.reg-link a{
+	text-decoration: none;
+	color: #F5F5F5;
+}
+
+.reg-link a:hover
+{
+	color: #00FF7F;
+}
+
+.reg-link{
+	padding-top: 7px;
+	text-align: center;
+	color: #8A2BE2;
+}
+
+.registration{
+	height: 310px;
+	width: 220px;
+	top: 45%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+}
+
+.registration input{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.registration input[type="text"], input[type="email"]
+{
+	border-radius: 8px;
+	outline: white;
+	height: 40px;
+	font-size: 16px;
+}
+
+#psw{
+	border-radius: 8px;
+	outline: white;
+	height: 40px;
+	font-size: 16px;
+}
+
+#retpsw{
+	border-radius: 8px;
+	outline: white;
+	height: 40px;
+	font-size: 16px;
+}
+
+.reginfo{
+	margin-top: 30%;
+	padding-top: 70px;
+	text-align: center;
+}
+
+.reginfo input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #006699;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 8px;
+}
+
+.reginfo input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: #39dc79;
+	color: #000;
+}
+
+.reginfo a{
+	text-decoration: none;
+	color: #F5F5F5;
+}
+
+.reginfo a:hover
+{
+	color: #00FF7F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

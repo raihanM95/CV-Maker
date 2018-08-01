@@ -1,0 +1,254 @@
+/* My_CV CSS start*/
+#container{
+	width: 1270px;
+}
+
+#left-div{
+	width: 350px;
+	height: 750px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background: white;
+	float: left;
+}
+
+.left-top-image{
+	width: 190px;
+	height: 190px;
+	margin-top: 40px;
+	margin-left: 80px;
+	border: 1px solid gray;
+	border-radius: 50%;
+	float: left;
+}
+
+#left-middle-div{
+	width: 330px;
+	height: 200px;
+	margin-top: 30px;
+	margin-left: 10px;
+	border-bottom: 1px solid gray;
+	float: left;
+}
+
+#left-bottom-div{
+	width: 330px;
+	height: 150px;
+	margin-top: 20px;
+	margin-left: 10px;
+	border-top: 1px solid gray;
+	float: left;
+}
+
+#left-bottom-languages-div{
+	width: 330px;
+	height: 100px;
+	margin-left: 10px;
+	float: left;
+}
+
+#right-div{
+	width: 880px;
+	height: 750px;
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+}
+
+#right-top-div{
+	width: 880px;
+	height: 250px;
+	margin-right: 10px;
+	background: white;
+	float: right;
+}
+
+#right-bottom-div{
+	width: 880px;
+	height: 490px;
+	margin-top: 10px;
+	margin-right: 10px;
+	background: white;
+	float: right;
+}
+
+#varsity-div{
+	width: 860px;
+	height: 140px;
+	margin-right: 10px;
+	float: right;
+}
+
+#college-div{
+	width: 860px;
+	height: 140px;
+	margin-right: 10px;
+	border-top: 1px solid gray;
+	float: right;
+}
+
+#school-div{
+	width: 860px;
+	height: 140px;
+	margin-right: 10px;
+	border-top: 1px solid gray;
+	float: right;
+}
+
+h1{
+	font-family: cursive;
+}
+
+#name{
+	text-align: center;
+}
+
+#skills{
+	font-family: cursive;
+}
+
+.left-logo{
+	height: 20px;
+	width: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#email-logo{
+	height: 30px;
+	width: 30px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#skills-logo{
+	height: 30px;
+	width: 30px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#skills-dtl{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#language-logo{
+	height: 20px;
+	width: 20px;
+	margin-top: 5px;
+	margin-left: 20px;
+}
+
+.right-logo{
+	height: 30px;
+	width: 30px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#name-institute{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+.description{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+footer{
+	width: 1220px;
+	height: 30px;
+	margin-top: 800px;
+	margin-left: 20px;
+	border-top: 1px solid gray;
+}
+/* My_CV CSS end*/
+
+
+/* Update_CV CSS start*/
+#update-cv-div{
+	width: 1045px;
+	height: 1350px;
+	margin-top: 10px;
+	margin-left: 110px;
+	background: white;
+}
+
+#image-div{
+	width: 200px;
+	margin-top: 50px;
+	margin-right: 200px;
+	float: right;
+}
+
+.image{
+	width: 190px;
+	height: 190px;
+	border: 1px solid gray;
+}
+
+input[type="file"]{
+	width: 190px;
+	height: 25px;
+}
+
+#basic-info-div{
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 200px;
+}
+
+#working-exp-div{
+	width: 200px;
+	margin-top:20px;
+	margin-left: 200px;
+}
+
+#education-div{
+	width: 200px;
+	margin-top: 20px;
+	margin-left: 200px;
+}
+
+.input{
+	width: 100%;
+	margin: 8px 0;
+	padding: 10px 10px;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+}
+/* button */
+#cancel{
+	margin-left: 500px;
+	padding: 10px;
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: #B0C4DE;
+}
+
+#update{
+	margin-left: 10px;
+	padding: 10px;
+	border: none;
+	border-radius: 4px;
+	font-size: 16px;
+	background-color: #4CAF50;
+}
+
+#cancel:hover
+{
+	cursor: pointer;
+	background: #778899;
+	color: #FFFFFF;
+}
+
+#update:hover
+{
+	cursor: pointer;
+	background: #39dc79;
+	color: #FFFFFF;
+}
+/* Update_CV CSS end*/
